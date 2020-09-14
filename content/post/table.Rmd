@@ -1,0 +1,25 @@
+---
+title: "Table"
+author: "Alexandra Salem"
+date: "9/12/2020"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(shiny)
+library(DT)
+library(webshot)
+```
+
+
+
+<iframe height="800" width="100%" frameborder="no" src="https://alexsalem.shinyapps.io/vegetables_basic/"> </iframe>
+
+
+

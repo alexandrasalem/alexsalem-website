@@ -3,46 +3,24 @@ authors:
 - admin
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: "alexandrasalem8@gmail.com"
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+name: Alexandra Salem
 organizations:
-- name: Stanford University
+- name: Oregon Health & Science University
   url: ""
-role: Professor of Artificial Intelligence
+role: Research Assistant and Computer Science MS student
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: ''
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/alexandrasalem
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Alex Salem is a Research Assistant at OHSU.
+This project was created by Alexandra Salem.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
